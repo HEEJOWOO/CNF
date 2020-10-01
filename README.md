@@ -59,9 +59,9 @@ Conclusions
 ![image](https://user-images.githubusercontent.com/61686244/94801359-e1482b80-0420-11eb-8034-6adc8b4a3600.png)
 * 마지막으로 다양한 SR 네트워크 를 통해서 나온 3배 스케일의 IMG 비교한 사진으로 SRCNN은 블러한것을 확인할 수 있고 VDSR과 CNF 를 비교했을때 빨간색 점들을 더 CNF가 잘 표현한 것을 확인 할 수 있음
 
-*다수의 Neural Networks 사용, 네트워크를 융합하는 방법 제안, 파라미터수 감소*
-*각각의 네트워크를 사용한것 보다 CNF의 사용으로 정확도 향상*
-*Deblur / Denoising에 사용 가능한 CNF*
-*CNF 각각의 네트워크를 깊게 만들수록 더 좋은 결과 도출*
-*Fusion layer를 사전 학습하는 방법이 더 좋은 결과 도출*
+**다수의 Neural Networks 사용, 네트워크를 융합하는 방법 제안, 파라미터수 감소**
+**각각의 네트워크를 사용한것 보다 CNF의 사용으로 정확도 향상**
+**Deblur / Denoising에 사용 가능한 CNF**
+**CNF 각각의 네트워크를 깊게 만들수록 더 좋은 결과 도출**
+**Fusion layer를 사전 학습하는 방법이 더 좋은 결과 도출**
 
